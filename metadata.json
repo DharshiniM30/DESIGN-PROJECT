@@ -1,0 +1,6 @@
+{
+  "name": "VerityChain AI – Blockchain and AI Deepfake Evidence Tracker",
+  "description": "Enterprise digital forensics platform to analyze deepfakes, calculate cryptographic SHA-256 hashes, preserve evidence vaults, and verify tamper-evident chain of custody using blockchain anchoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

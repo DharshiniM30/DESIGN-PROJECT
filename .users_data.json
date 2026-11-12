@@ -1,0 +1,42 @@
+[
+  {
+    "id": "usr_sarah_chen",
+    "name": "Dr. Sarah Chen, CISSP",
+    "email": "investigator.chen@veritychain.gov",
+    "passwordHash": "980a16b42fc5877299400aa68e8c15faeb1b9e3e71b76085d8ba67c00a3e4b0a",
+    "role": "investigator",
+    "organization": "Federal Cyber Forensics Division",
+    "publicKey": "0x8b329415A99f187A5441A19A842f7c038E4A9561",
+    "createdAt": "2026-01-15T08:00:00Z"
+  },
+  {
+    "id": "usr_marcus_vance",
+    "name": "Marcus Vance, GCFA",
+    "email": "auditor.vance@integrity.org",
+    "passwordHash": "980a16b42fc5877299400aa68e8c15faeb1b9e3e71b76085d8ba67c00a3e4b0a",
+    "role": "auditor",
+    "organization": "Integrity Assurance Bureau",
+    "publicKey": "0x9a842f7c038e4a9561b369cc7e4719277d341b3c",
+    "createdAt": "2026-02-10T11:00:00Z"
+  },
+  {
+    "id": "usr_analyst_demo",
+    "name": "Jordan Hayes",
+    "email": "analyst@veritychain.gov",
+    "passwordHash": "980a16b42fc5877299400aa68e8c15faeb1b9e3e71b76085d8ba67c00a3e4b0a",
+    "role": "analyst",
+    "organization": "State Digital Forensics Lab",
+    "publicKey": "0x71C8A33b28b7e704B14988F804368140D80E4540",
+    "createdAt": "2026-03-01T09:00:00Z"
+  },
+  {
+    "id": "usr_b974b2a275bf",
+    "name": "Alex Morgan",
+    "email": "alex.morgan@forensics.io",
+    "passwordHash": "8701ed8d350655d2726ee886678e7b467c137fbdce60f4711ba7fab9e5ea6bc3",
+    "role": "analyst",
+    "organization": "Metro Police Cyber Lab",
+    "publicKey": "0x17775492376595e6e02271b3318a7dc927594ceb",
+    "createdAt": "2026-11-12T10:17:22.824Z"
+  }
+]
